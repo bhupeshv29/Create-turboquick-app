@@ -16,6 +16,13 @@
 - Interactive prompt to choose the project name.  
 - Removes `.git` to avoid conflicts.  
 
+## Usage  
+
+Run the following command to start the interactive setup:  
+
+```bash
+npx create-turboquick-app
+
 ## Setup Database (Prisma)  
 
 1. Rename `.env.example` to `.env`.  
@@ -26,11 +33,6 @@ npx prisma migrate dev
 ```
 npx prisma generate
 ``` 
-## Usage  
 
-Run the following command to start the interactive setup:  
-
-```bash
-npx create-turboquick-app
 
 
