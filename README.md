@@ -22,6 +22,7 @@ Run the following command to start the interactive setup:
 
 ```bash
 npx create-turboquick-app
+```
 
 ## Setup Database (Prisma)  
 
