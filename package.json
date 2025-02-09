@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "create-turboquick-app",
   "private": true,
   "scripts": {
     "build": "turbo build",
